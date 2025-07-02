@@ -30,7 +30,7 @@ A WhatsApp bot that receives photos from users and saves them.
 ### 1. Clone or download the project files
 
 ```bash
-git clone https://github.com/vaskinbv/watsapp_photo_sender.git
+git clone https://github.com/vaskinb/watsapp_photo_sender.git
 cd watsapp_photo_sender
 ```
 ### 2. Create file `.env` based on `.env.example`:
